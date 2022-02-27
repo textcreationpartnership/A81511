@@ -1,0 +1,1013 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse concerning the East-India trade Wherein is shewed by arguments taken from a treatise written by Sir Josiah Child, reprinted this present year 1693, that the said trade may be carried on by a regulated company, to much greater advantage of the publick, than by a company with a joint-stock.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81511</idno>
+            <idno type="STC">Wing D1584</idno>
+            <idno type="STC">ESTC R231714</idno>
+            <idno type="EEBO-CITATION">99900017</idno>
+            <idno type="PROQUEST">99900017</idno>
+            <idno type="VID">170872</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81511)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170872)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2494:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse concerning the East-India trade Wherein is shewed by arguments taken from a treatise written by Sir Josiah Child, reprinted this present year 1693, that the said trade may be carried on by a regulated company, to much greater advantage of the publick, than by a company with a joint-stock.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Baldwin, near Oxford Arms Inn Warwick Lane,</publisher>
+                  <pubPlace>[London ;</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Copy filmed at reel 2494 tightly bound, with some loss of print.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Child, Josiah, --  Sir, 1630-1699 --  Early works to 1800.</term>
+               <term>Trade regulation --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:170872:1"/>
+            <head>A DISCOURSE Concerning the <hi>Eaſt-India Trade.</hi>
+            </head>
+            <argument>
+               <p>Wherein is ſhewed by Arguments taken from a Treatiſe written by Sir <hi>Joſiah Child,</hi> Re<g ref="char:EOLhyphen"/>printed this preſent Year 1693, that the ſaid Trade may be carried on by a Regu<g ref="char:EOLhyphen"/>lated Company, to much greater Advan<g ref="char:EOLhyphen"/>tage of the Publick, than by a Company with a <hi>Joint-Stock.</hi>
+               </p>
+            </argument>
+            <p>THE many and great Advantages which all Kingdoms and Countreys receive by Trade, are ſo obvious, That its what no Man denyes; and there needs no Arguments to prove a thing ſo generally admitted, and there<g ref="char:EOLhyphen"/>fore it is, that the Wiſeſt and Juſteſt Governments have made it one of their <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iefeſt cares, to Diſcover and Eſtabliſh thoſe ways and methods, that do beſt <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſerve and improve it: And this being the meaſure obſerved for Trade in ge<g ref="char:EOLhyphen"/>neral, its ſo likewiſe in particular Trades, eſpecially ſuch as bear a great propor<g ref="char:EOLhyphen"/>tion in the value and influence of the Trade of any Nation or Country, and <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cti by an ill foundation and a worſe management, are like to be loſt, if not to <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hole, yet to the greater part of the Subjects of that Country.</p>
+            <p>Among other Trades that to the <hi>Eaſt-Indies</hi> is become one of the greateſt that <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <hi>England,</hi> and therefore well befitting the care of our Repreſentatives in Par<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to decalre and eſtabliſh the Right thereunto <gap reason="illegible" resp="#APEX" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:170872:2"/>
+its management; this being likewiſe one of the greateſt and moſt beneficial Trade of all the Trade; of <hi>Holland,</hi> as that Author obſerves in <hi>page</hi> 144. of his Ingenious Treatiſe. <q>
+                  <hi>The</hi> Dutch, ſays he, <hi>with good reaſon eſteem the Trade of the</hi> Eaſt-Indies <hi>more profitable to them than are the Mines of Gold and Silver in</hi> America <hi>to the King of</hi> Spain.</q> Therefore, as of all others, it's that wherein the <hi>Dutch</hi> are mo<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> emulous of any Competitors, ſo we are under the more abſolute neceſſity to have a ſhare in it, and are the more concerned to ſecure and encreaſe it: One of the chief deſigns of Sir <hi>Joſiah Child</hi> in that Treatiſe, ſeems to be, the ſhewing the Ne<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ceſſity and Advantage of encreaſing the Trade of this Kingdom, ſo as to enable <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to Cope therein, with our Neighbours in general, and particularly with the <hi>Dutch</hi> which is a Subject of very great importance; and well worthy ſo great a Pe<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> And the Nation is much indebted to him for thoſe many Ingenious Maxims and Obſervations he has made Publick, which were never more neceſſary to be conſi<g ref="char:EOLhyphen"/>dered than at preſent.</p>
+            <p>There are many of his Propoſitions, which may be made extreamly uſeful and ad<g ref="char:EOLhyphen"/>vantagious to the Trade of this Kingdom in general, and particlarly in the ſettle<g ref="char:EOLhyphen"/>ment of the <hi>Eaſt-India Trade,</hi> by an eaſy Admiſſion into it, under the Government of a Regulated Company of Merchants; which is the Method the Author propo<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as moſt beneficial to the Kingdom for all other Trades which are managed by Com<g ref="char:EOLhyphen"/>panies; and the <hi>Eaſt-India Trade</hi> being that, wherein of all others, he has had greater Share of Intereſt and Experience, it might reaſonably have been expect<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> he ſhould have laid down ſuch Rules and Methods for the future conduct and im<g ref="char:EOLhyphen"/>provement of it, as might effectually have anſwered the aforeſaid end of <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Treatiſe.</p>
+            <p>But as the greateſt Men are ſubject to Humane Frailties, ſo herein that Gentlem<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> has given an Inſtance of it, for he has been moſt ſilent as to the methods of t<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Government of that Trade, and though it be of ſo great importance as well this Kingdom as the <hi>Dutch;</hi> he has treated of it in the ſlighteſt manner of m<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> others, and given neither Rules nor Reaſons worth mentioning either for the pre<g ref="char:EOLhyphen"/>ſent or future management of it; But yet in that little which he has obſerved concerning it, his private Intereſt has led him to contradict himſelf and his o<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Propoſitions, by which he has given a very great blemiſh to that noble Under<g ref="char:EOLhyphen"/>taking, and ſhewed the World how difficult a thing it is for ſome Men to be I<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> partial, where Private Intereſt comes to ſtand in competition with the Publick.</p>
+            <p>I ſhall in order to the Treating this matter, conſider theſe Four things:</p>
+            <list>
+               <item>I. The Propoſitions laid down by the Author, as his Opinion concern<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Trade in General.</item>
+               <item>II. The Reaſons which he has offered for the management of the <hi>Eaſt-India Trade</hi> in the preſent method.</item>
+               <item>III. Shew how inconſiſtent the preſent conſtitution of the <hi>Eaſt-India</hi> Com<g ref="char:EOLhyphen"/>pany, is with the Authors Propoſitions and Opinion, laid down as Trade in General.</item>
+               <pb n="3" facs="tcp:170872:2"/>
+               <item>IV. I ſhall Anſwer ſome of the moſt Popular Objections which are made againſt the determination of this Company, and the management of that Trade, in any other manner than by a Joint Stock.</item>
+            </list>
+            <p>I might add likewiſe a Fifth, to ſhew how contradictory the preſent conſtitu<g ref="char:EOLhyphen"/>tion of the <hi>Eaſt-India Trade,</hi> is to the Law of Nature, and the Liberty of a Free Born People, and to the Common and Statute Laws of the Land. But of this I ſhall ſay nothing, it is a Subject which would deſerve a particular con<g ref="char:EOLhyphen"/>ſideration; If the Learned Arguments which have been made upon the occa<g ref="char:EOLhyphen"/>ſion of its conteſt, together with the Opinions of moſt of the Judges which have been given upon this matter, had not ſufficiently proved it.</p>
+            <p n="1">I. The Propoſitions laid down by the Author, and his Opinion as to Trade in General.</p>
+            <p>The great Deſign of the Author being to lay down Rules and Methods for the increaſe and Improvement of the Trade of this Kingdom in General, and for en<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bling us to Cope therein with our Neighbours, and eſpecially the <hi>Dutch,</hi> he has <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ropoſed ſeveral, as neceſſary to the attaining that end; and Principally the En<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouragement of Induſtry and Ingenuity, and the abatement of Intereſt as mainly con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ncing to it, the Advantages of which are largely handled, and take up a great part of that Treatiſe. And in <hi>Page</hi> 153. ſpeaking of the Ballance of Trade, he asks</p>
+            <q>
+               <p>What is to be done in <hi>England</hi> to Improve the Trade thereof to ſuch a Degree, as to Equalize- or Over-Ballance our Neighbours in our National Profit by our Foreign Trade?</p>
+               <p>The Method I propoſe, <hi>ſays he,</hi> for the Anſwering this great Queſtion, is (fol<g ref="char:EOLhyphen"/>lowing my own Principle, that if Trade be great, and much <hi>Engliſh</hi> Shipping em<g ref="char:EOLhyphen"/>ployed, it will be good for the Nation in General, whatever it may be for private Merchants.) Firſt, to lay down ſome general Rules for the enlargement of Trade in <hi>England,</hi> and then ſome ways of reducing thoſe general Rules into Uſe and Practice, The General Rules for the Enlargement of Trade are not many.</p>
+               <list>
+                  <item>1. Encreaſe of Hands in Trade.</item>
+                  <item>2. Encreaſe of Stock in Trade.</item>
+                  <item>3. Make Trade Eaſy and Neceſſary, <hi>i. e.</hi> make it our Interest to Trade.</item>
+                  <item>4. To make it the Intereſt of other Nations to Trade with us.</item>
+               </list>
+            </q>
+            <p>And after in <hi>fol.</hi> 159. ſpeaking of the 4th. General Rule to reduce it to Pra<g ref="char:EOLhyphen"/>ctice, <hi>Viz.</hi> To make it the Intereſt of other Nations to Trade with us. <q>
+                  <hi>We must be ſure,</hi> ſays he, <hi>to furniſh them at as Cheap or Cheaper Rates than any other Nation can or doth; and this I affirm can never be done, without ſubduing Uſury especially, and doing thoſe other things beforementioned, that will conduce to the</hi> Increaſe of our Hands, and Stock, <hi>for our being in a Condition to Sell our Neigh<g ref="char:EOLhyphen"/>bours Cheaper then others, must be principally, when it is an effect of</hi> many Hands, and much Stock.</q>
+            </p>
+            <p>Obj. <q>But it may be ſaid <hi>(ſays the Author)</hi> how ſhall we Profit by this Rule, of Selling Cheap to Foreigners, where as the contrary is ſaid to be the Way to Riches, Viz. to Sell Dear and Buy Cheap.</q>
+            </p>
+            <pb n="4" facs="tcp:170872:3"/>
+            <p>To which he Anſwers, <q>
+                  <hi>That in a ſtrict Senſe it may be ſo, for the Private Mer<g ref="char:EOLhyphen"/>chants, but in this Diſcourſe,</hi> ſays he, <hi>I am deſigning to ſhew how our Publick Natio<g ref="char:EOLhyphen"/>nal Trade may be ſo managed, that other Nations who are in Competition for the ſame, may not wrest it from us, but that ours may continue and increaſe, to the Diminution of theirs; if there were no others to wage with us, we might as the Proverb ſays</hi> Make our own Markets, <hi>but as the caſe now ſtands, That all the World are ſtriving to engroſs all the Trade they can, that other Proverb is very true and applicable,</hi> All Covet, All Looſe.</q>
+            </p>
+            <p>And to avoid Miſtakes which may be made in the Conſideration of theſe matters, the Author in his Preface to that Treatiſe, adviſes the Reader, <q>That in all his Me<g ref="char:EOLhyphen"/>ditations on theſe Principles, he ſhould warily distinguiſh between the Profit of the Merchant, and the Gain of the Kingdom, which are ſo far from being always Pa<g ref="char:EOLhyphen"/>rallels, that frequently they run counter one to the other, almoſt all men by their Edu<g ref="char:EOLhyphen"/>cation, and buſineſs, having fixed their Eye, and Aim, wholly upon the former, do uſually confound thoſe two, in their Thoughts and Diſcourſes of Trade.</q>
+            </p>
+            <p>And ſpeaking of Companies of Merchants, <hi>fol.</hi> 81, 82. he ſays,</p>
+            <q>
+               <p>it hath been a Moot Caſe whether any incorporating of Merchants be for Publick Good or Hurt; for my own part, <hi>ſays he,</hi> I am of Opinion.</p>
+               <p n="1">1. <hi>That for Countreys with which His Majeſty hath no Alliance, nor can have any by reaſon of their Diſtance or Barbarity, or Non-communication with the Princes of Chriſtendom,</hi> &amp;c. <hi>where there is a Neceſſity of Maintaining Forces and Forts (ſuch as the</hi> Eaſt-India <hi>and</hi> Guinea) <hi>Companyes of Merchants are abſolutely neceſſary.</hi>
+               </p>
+               <p n="2">2. <hi>It ſeems evident to me, that the greateſt part of theſe two Trades, ought for Publick Good to be managed by Joint-Stocks.</hi>
+               </p>
+               <p n="3">3. <hi>Its questionable to me whether any other Companyes of Merchants are for Pub<g ref="char:EOLhyphen"/>lick Good or Hurt.</hi>
+               </p>
+               <p n="4">4. <hi>I conclude however, that all Restrictions of Trade are naught, and conſequent<g ref="char:EOLhyphen"/>ly, that no Company what ſoever can be for Publick Good, expect it be eaſy for all on any of His Majeſties Subjects to be admitted,</hi> &amp;c.</p>
+               <p n="1">I. <hi>Becauſe the</hi> Dutch, <hi>who Thrive beſt, and have the ſureſt Rules to Thrive by, ad<g ref="char:EOLhyphen"/>mit not only any of their own People, but even</hi> Jews <hi>and all kind of Aliens, to be Free of any of their Societies of Merchants, or any of their Cities, or Towns Corpo<g ref="char:EOLhyphen"/>rate.</hi>
+               </p>
+               <p n="2">II. <hi>Nothing in the World can enable us to Cope with the</hi> Dutch <hi>in any Trade, but encreaſe of Hands and Stock, which a general Admiſſion will do, many Hands and much Stock being as neceſſary to the Prosperity of any Trade, as Men and Money to Warfare.</hi>
+               </p>
+               <p n="3">III. <hi>There is no Pretence of any Good to the Nation by Companies of Merchants, but only Order and Regulation of Trade, and if that be preſerved (which the Admiſſion of all that will come in, and ſubmit to the Regulation, will not Prejudice) all the Good to the Nation that can be hoped for my Companies, is obtained.</hi>
+               </p>
+            </q>
+            <p>And a little after, <hi>fol</hi> 83. making inferences from what he had been obſerving concerning Regulated Companies of Merchants, he reduces them to Four, <hi>viz.</hi>
+            </p>
+            <q>
+               <list>
+                  <item>1. <hi>That restrained and limited Companles are not done ſufficient to preſerve and encreaſe a Trade.</hi>
+                  </item>
+                  <item>2. <hi>That limited Companies, though establiſhed by Act of Parliament, may looſe a Trade.</hi>
+                  </item>
+                  <item>3. <hi>That a Trade may be carried on to any part of Christendom, and encreaſed with<g ref="char:EOLhyphen"/>out Companies.</hi>
+                  </item>
+                  <pb n="5" facs="tcp:170872:3" rendition="simple:additions"/>
+                  <item>4. <hi>That we have</hi> Declined more, <hi>at leaſt have</hi> encreaſed leſs <hi>in thoſe Trades limited</hi> to Companies, <hi>than</hi> in others, <hi>where all His Majeſties Subjects have had equal</hi> Freedom of Trade.</item>
+               </list>
+            </q>
+            <p>Theſe being the Propoſitions which are laid down by the Author for his Opinion to Trade in general, I ſhall conſider the ſecond thing propoſed, <hi>Viz.</hi>
+            </p>
+            <p n="2">II. The Reaſons offered by him for the management of the <hi>Eaſt-India Trade</hi> in <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e preſent Method.</p>
+            <p>The <hi>Eaſt-India Trade</hi> under the preſent Conſtitution, ſtanding upon ſuch a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oundation as contradicts the Authors Propoſitions for the Conduct of all other Trades, and which is accounted by him to be prejudicial to the Publick Good, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Deſtructive to Induſtry and Ingenuity; and conſidering what he ſays from <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Conſiderations he had made of Companies of Merchants in General, <hi>page</hi> 84. <q>
+                  <hi>That all the Trade to any part of Chriſtendom, might be carried on, and increaſed, without Companies.</hi>
+               </q> It might rationally have been expected that ſuch Reaſons <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould have been Propoſed for the management of that Trade in the preſent method, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhould not have been liable to any Objection, and that he would have ſhewed <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herein it differs ſo much from all the Trades of Chriſtendom, that it ought to and on ſo different a Conſtitution.</p>
+            <p>But he has not attempted to Prove any ſuch thing, nor ſhewn a neceſſity of <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ving any Company of Merchants at all for that Trade; much leſs one with a <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>int-<hi>Stock</hi> excluſive: For what he ſays in <hi>Pag.</hi> 81. <q>
+                  <hi>That for Countries with which His Majeſty hath no Alliance, nor can have any by reaſon of their Diſtance or Barbarity, or Non-communication with the Princes of Chriſtendom,</hi> &amp;c. <hi>where there is a Neceſſity of Maintaining Forces and Forts (ſuch as the</hi> Eaſt-India <hi>and</hi> Guiney <hi>Companies of Merchants, are abſolutely neceſſary;</hi>
+               </q> is a perfect Begging the Que<g ref="char:EOLhyphen"/>stion: But it does not make appear, that Forces and Forts are neceſſary for the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rrying on of that Trade; nor if they were, that they could not be provided for <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bout a Company with a <hi>Joint-Stock:</hi> which if he had proved, <hi>it might have <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>med as evident to others,</hi> as he ſays it does to him, that the <hi>Eaſt India</hi> and <hi>Guinea</hi> Trades ought to be ſo Managed; but as he only mentions thoſe things as Argu<g ref="char:EOLhyphen"/>ments for a Company of <hi>Merchants;</hi> ſo, if they were neceſſary, they make nothing <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all to his purpoſe, as to a Company with a <hi>Joint Stock:</hi> For I will admit, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat a Company of <hi>Merchants</hi> is neceſſary for thoſe Trades;—And yet I <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oubt not, but it will appear very plain by the ſequel of this Diſcourſe, That if <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ces and Forts were neceſſary, they might be maintained by a Regula<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed Company <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Merchants,</hi> as well as by a Company with a <hi>Joint-Stock:</hi> For the Author <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ows, that <hi>Order</hi> and <hi>Regulation</hi> may be had in a Company of <hi>Merchants</hi> without <hi>Joint-Stock,</hi> and declares, That there is no other pretence of any Good to the <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tion by any Company of <hi>Merchants,</hi> than only <hi>Order</hi> and <hi>Regulation</hi>—And <hi>Page</hi> 88. he confeſſes, <hi>That the</hi> Turkey-<hi>Company maintain Ambaſſadors, Con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> &amp;c. ſo that 'twill naturally follow, and he himſelf muſt admit it, That the <hi>Eaſt-India</hi> and <hi>Guinea</hi> Trades may be carried on by a Company of <hi>Merchants,</hi> without a <hi>Joint-Stock;</hi> and that if <hi>Forces, Forts,</hi> &amp;c. were neceſſary for the Good <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Security of thoſe Trades, they might be maintained by ſuch a <hi>Regulated <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>pany,</hi> as well as by a <hi>Joint-Stock;</hi> and of this their own permiſſion Trade, is ſufficient Demonſtration; for which Licence to Trade, they have exacted from <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Fellow-Subjects, 30, 40, and 50 <hi>l. per Cent.</hi> a much greater Tax than what <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> neceſſary to be Levied by a <hi>Regulated Company,</hi> for the ſupport of their Charge.
+<pb n="6" facs="tcp:170872:4"/>
+And it cannot be ſuppoſed, if the Author had not been fully convinc'd, of his being upon a wrong Foundation; but that a Perſon of his great Parts and Ingenuity, wou<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> have given ſome better Reaſons to the World, why thoſe Trades <hi>Ought,</hi> as <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſays, <hi>for the Publick Good, to be Managed by a Joint-Stock;</hi> than barely his ow<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Aſſerting, That ſo it ſeems Evident to him. The Reader may well be ſurpriſe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> how the Author ſhould come to draw ſuch a Concluſion from thoſe Premiſſes: A<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as it has been already Obſerved, he has given no Reaſon for this his Opinion although it be ſo contrary to his own <hi>Maxims.</hi> So that it's plain, nothing but <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> own Intereſt in the <hi>Eaſt-India</hi> Stock, could make that <hi>ſeem evident to him</hi> to beſt in this Trade; of which, <hi>the direct contrary,</hi> in his Opinion, is moſt for t<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Publick Good</hi> in all other Trades. And as it would not have been <hi>decent</hi> in him, tell the World for a <hi>Reaſon,</hi> How Great his Concern was in the <hi>Joint-Stock</hi> the <hi>Eaſt-India</hi> Company; ſo it would not have convinc'd any other, who h<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not the ſame Reaſon as the Author, to have it <hi>ſeem evident</hi> to him; by having large, or at leaſt ſome Share <hi>therein.</hi> Yet it muſt be allowed to be a convinci<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Argument,</hi> and of very great weight, as to the Author, but of no weight at all, to the Publick: And it ſhews, how neceſſary the Author's Advice is, in the Prefa<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of his Treatiſe, <hi>To diſtinguiſh between the Profit of the Merchant, and the Gain<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Kingdom.</hi>
+            </p>
+            <p>As for the Barbarity of the <hi>Indians,</hi> the contrary thereof is ſo well known, t<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it will not paſs for any Argument, there being no People in the World more Ci<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> lized: Our late Carriage towards them, has indeed given them too much occaſi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to account us Barbarous; but they have not by their Behaviour ever given us a<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> cauſe to eſteem them ſo.</p>
+            <p>Having thus Conſidered the Author's Reaſons, which he has offered for M<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> naging the <hi>Eaſt-India</hi> Trade in this <hi>Method,</hi> I ſhall conſider the Third thing wh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I propoſed; which is,</p>
+            <p n="3">III. To ſhew how inconſiſtent the preſent Conſtitution of the <hi>Eaſt-India</hi> Co<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> panies Trade is, with the Author's own Propoſitions.</p>
+            <p>I think there needs no other Argument to prove this, then only what I h<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> already obſerved, and taken from the Author's ſaid Treatiſe; but becauſe ſo<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thing more particular may be expected, I ſhall do it briefly.</p>
+            <p>Its plain, by the Author's Opinion, <hi>Fol.</hi> 81. that all Reſtraints in Trade are naug<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <q>
+                  <hi>I conclude however,</hi> ſays he, <hi>That all Reſtrictions of Trade are naught, and conſeque<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> That no Company what ſoever can be for the Publick Good; except it be eaſie for all, on<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of His Majeſties Subjects, to be admitted,</hi> &amp;c.</q> 
+               <hi>Joint-Stocks</hi> eſpecially, Excluſive o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are <hi>Monopolies,</hi> and are effectual Reſtraints in Trade; ſo that they perfectly c<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> tradict the Author's Principles, being ſo many Shackles to Trade, and Curbs to Indu<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Ingenuity; which hinder the <hi>Increaſe of Hands and Stock in Trade,</hi> and <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> moſt of the Advantage that is made thereby to Men of Great Eſtates; who, tho<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they are never ſuch Idle Drones and Sluggards, lazily reap and enjoy the Be<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the Labour and Pains of others; who having ſmaller Eſtates, are more Ac<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Induſtrious; and they are inconſiſtent with one of the chief Rules laid down the Author, for the Enlargement of our Trade, <hi>Pag.</hi> 154. <hi>viz.</hi> 
+               <q>
+                  <hi>To make it Intereſt of other Nations, to Trade with us.</hi>—</q> They making <hi>Goods Dear,</hi> inſtead making them <hi>Cheap;</hi> and ſo <hi>force</hi> us to <hi>Trade</hi> with other <hi>Nations,</hi> to ſupply <hi>ſelves;</hi> inſtead of <hi>making it their Intereſt to Trade with us:</hi> As is viſible, by Exceſſive Prices of all <hi>Eaſt-India</hi> Goods, above what they would have been, if
+<pb n="7" facs="tcp:170872:4" rendition="simple:additions"/>
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Majeſties Subjects had Enjoyed an Equal Freedom in the Trade;</hi> and the Vaſt <hi>
+                  <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>tities</hi> which have been of late <hi>Imported</hi> hither by <hi>ſtealth,</hi> from <hi>Holland.</hi>
+            </p>
+            <p>If all the Trade of this Kingdom were carried on by ſuch Excluſive <hi>Joint-Stocks</hi> thoſe of the <hi>Eaſt-India</hi> and <hi>Guinea</hi> Companies, this Nation might produce half dozen Men, of Eſtates equal with moſt <hi>Dukes;</hi> and all other Traders muſt remain <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir <hi>Slaves,</hi> their <hi>Vaſſals.</hi>—And therefore what the Author ſays of Uſureres, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 24, 25. may with very little variation, properly be applied to thoſe, who <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e ſo earneſt and ſolicitous for the Continuance of this Company; and oppoſe the <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rrying on of this Trade in a Regulated Company.</p>
+            <p>
+               <q>The Sufferers, I know, none, but idle perſons, that live with little labour, not working with their Hands or Heads, to bring either Wax or Honey to the Common Hive of the Kingdom; but ſwelling their own Purſes by the ſweat of other mens brows, and contrivances of other mens brains; and how unprofitable it is for a Na<g ref="char:EOLhyphen"/>tion, to ſuffer Idleneſs to Suck the Breaſts of Induſtry, needs no demonſtration.</q>
+            </p>
+            <p>In a Regulated Company of Merchants, there is a conſtant and eaſie admiſſion for men; which is the <hi>Increaſing of Hands and Stock in Trade,</hi> ſo much commended the Author; and which he declares to be <hi>as Eſſentially neceſſary to the Prosperity any Trade, as Men and Money are to Warfare.</hi>
+            </p>
+            <p>Yet the Author magnifies the Admiſſion into the <hi>Eaſt-India</hi> Company, and finds <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>lt with the narrowneſs of that into the other Companies of Merchants: Whereas, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>Charge thereof is generally ſmall, and the Priviledge great: for any one, who once admitted into a Regulated Company, may drive as great a Trade as he <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aſes, without Limitation: and 'tis ſuch an <hi>Admiſſion, which increaſes Hands and <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>k in Trade; two of the General Rules,</hi> which the Author lays down in <hi>Fol.</hi> 154.—<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the <hi>Enlarging our Trade.</hi> And though all the Reſtraints that are in moſt other <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ades under Regulated Companies, may eaſily be removed; and thoſe may <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>operly be ſaid to reſtrain themſelves, who are not admitted, becauſe they do <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t think it worth their while. Yet the Author is of Opinion, that even thoſe <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>traints ought to be taken away, and the Freedom of Trade made more eaſie. <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d in the Author's Anſwer made in the Companies Name, to the Regulations <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>opoſed by the Lords of the Council, he ſays, <hi>Trade is a free Agent, and muſt not limited or bounded; if it be ſo in any Nation, it will never proſper.</hi> And in another <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ce of the ſame Anſwer; <hi>Trade muſt be free, for the Publick Good, otherwiſe it <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> dye or flie away;</hi> yet he approves of the <hi>Reſtraint</hi> in the <hi>Eaſt-India</hi> Trade, as neceſſary for the <hi>Publick Good;</hi> though that be ſuch a Reſtraint as is in effect a total <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hibition of all others but themſelves: However, the Admiſſion into the <hi>Eaſt-India</hi> Company for 5 <hi>l.</hi> is what he ſpeaks of in <hi>Page</hi> 89, 90. as one of the main <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſes of all their Succeſs.</p>
+            <p>
+               <q>
+                  <hi>Undeniable Experience,</hi> ſays he, <hi>hath convinc'd all gain-ſayers in this Matter, that the</hi> Eaſt-India <hi>Company ſince its having had ſo large and National a Foundation, ha<g ref="char:EOLhyphen"/>ving likewiſe had a Succeſſion of better Governours, Deputies, and Aſſistants, then ever it had upon that narrow bottom it stood formerly, when none could be admitted to the Freedom of that</hi> Company, <hi>for leſs then a Fine of Fifty Pounds, and the ſucceſs hath been anſwerable. For the firſt Company ſettled upon that narrow limited Intereſt, although their Stock was larger then this, decayed, and finally came <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Ruine and Deſtruction. Whereas on the contrary, this being ſettled on more <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>tional, and conſequently more juſt as well as more profitable Principles, hath, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ough God's Goodneſs, thriven and increas'd to the Trebbling of their firſt Stock.</hi>
+               </q>
+            </p>
+            <pb n="8" facs="tcp:170872:5"/>
+            <p>But here I muſt beg leave to obſerve that the great Succeſs of this Company Trade, ſo far exceeding the former, is not owing to the admiſſion of any o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for 5 <hi>l.</hi> as the Author would inſinuate, but to ſome ſuch Cauſes, as theſe, <hi>Viz</hi>
+            </p>
+            <p n="1">I. The great and general uſe and eſteem of <hi>Callicoes,</hi> and <hi>Eaſt-India</hi> Com<g ref="char:EOLunhyphen"/>modities, of which the Conſumption has been above ten times more then it w<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> formerly.</p>
+            <p n="2">II. The War in which <hi>France</hi> and <hi>Holland</hi> were engaged for ſo ma<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Years, when we enjoyed Peace, which gave us an opportunity to furniſh not o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ly thoſe Countries, but all the World, with moſt ſort of <hi>Eaſt-India</hi> Good<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which, together with the low Duties formerly paid, have been the chief Reaſon<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of this Companys great Succeſs.</p>
+            <p>Nor are the Advantages which the Nation Receiv'd by the <hi>East-India</hi> Trad<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> owing to the management of it, by a <hi>Company</hi> with a joynt Stock, for the ſame mig<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be had under a regulated Company, and much greater. Thoſe which the Author me<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tions chiefly, are in 144, 145, and 146.</p>
+            <q>
+               <p n="1">I. <hi>That Trade,</hi> ſays he, <hi>employs</hi> 25 or 30 <hi>Sail of the moſt Warlike Ships</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> England, <hi>wsth</hi> 60 <hi>to</hi> 100 <hi>Men in each Ship, and may in 2 or 3 Years mo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> employ a greater Number,</hi> &amp;c.</p>
+               <p n="2">II. <hi>It ſupplys the Nation conſtantly and duly with that (in this age) nece<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ſary material of</hi> Salt-Petre.</p>
+               <p n="3">III. It ſupplys the Nation for its Conſumption with Pepper, Indigo, Callicoe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dnd ſeveral uſefull Drugs, near the value of 150000 or 180000 l. per Annum</p>
+               <p n="4">IV. <hi>It furniſhes us with the Pepper, Cowrys, Long Cloath, and other Callico<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and painted Stuffs, proper for the Trade of</hi> Turky, Italy, Spain, France, <hi>a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> Guiney, <hi>to the amount of</hi> 2 or <hi>300000 l.</hi> per Annum.</p>
+               <p>Now if not only the aforeſaid Advantages be ſeriouſly conſidered, but alſo wh<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> detriment the Nation would ſustain, if we were deprived of thoſe ſupplys, bo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in point of <hi>Strength, and Warlike Proviſious,</hi> in regard of <hi>Shipping</hi> and <hi>Sal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Petre,</hi> but alſo in reſpect of the Furtherance, it gives to many other Trades b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>fore mentioned; it will eaſily appear that this Trade, though its imports exceed its exports, is the moſt advantagious Trade to <hi>England,</hi> and deſerves all En<g ref="char:EOLhyphen"/>couragements, <hi>for were we to buy all our Pepper and Callico's of the</hi> Dutch they would raiſe our Pepper (which now ſtands but about <hi>3d.</hi> per pound in <hi>In<g ref="char:EOLhyphen"/>dia,)</hi> to, or near the Proportion, which they have advanced on Nutmegs, Clov<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and Mace, (which coſt the <hi>Dutch</hi> not much more <hi>per</hi> Pound in <hi>India</hi> then Pe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>per,) ſince they engroſſed the Trade for thoſe Commodities, and the uſe of Calli<g ref="char:EOLunhyphen"/>coes in <hi>England,</hi> would be ſupplyed by Forreign Linnen at greater Prices; ſo th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> what may be ſecured for this Nations Conſumption, would in all probability co<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> them at leaſt <hi>400000</hi> l. <hi>per Annum,</hi> more then now it doth, and our Foreign Trades for <hi>Italy</hi> and <hi>Guiney,</hi> would in part decay for want of the afore ſaid Supplies.</p>
+            </q>
+            <p>Moſt of which Advantages the Nation has now loſt, by having this Trade manag'd by a <hi>Joynt-Stock,</hi> and is never like to recover them again, unleſs b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the cheapneſs of <hi>Eaſt-India</hi> Goods, which may be procured by an open Trade and can ſcarce ever be attained by any other method. The <hi>French,</hi> by their high Duties, had perfectly prohibited all <hi>Callicoes,</hi> and other <hi>Eaſt-India</hi> Goods before the War, but what comes directly from thence, on their own Ships, the <hi>Dutch</hi> import ſo large quantities, that they do not only ſup<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>
+               <pb n="9" facs="tcp:170872:5" rendition="simple:additions"/>
+themſelves, and thoſe other Countries which we formerly ſupplyed; but even Conſumption of this Kingdom. And, beſides them, <hi>Danes, Portugueſe</hi> and <hi>Ge<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es,</hi> are all courting this Trade.</p>
+            <p>This Company inſtead of employing 25 or 30 of the moſt Warlike Ships, and of porting 180000 <hi>l. per Annum</hi> in Pepper and Druggs, and exporting again 200000 300000 <hi>l.</hi> in <hi>Callicoes</hi> and other Commodities for <hi>Spain, Italy,</hi> &amp;c. Have it had home in 3 or 4 Years time, that value in all manner of Goods, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ough moſt ſorts of <hi>Eaſt-India</hi> Commodities, are and have been ſold for <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble, ſome trebble, and four times as much as formerly, and for <hi>Salt Petre,</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y have ſcarce had any home of late, ſo that for want thereof, a Bill is now <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ought into Parliament, to Licenſe the importing of it from <hi>Holland,</hi> that Com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dity being now ſold at about 8 <hi>l. per Cent.</hi> which was formerly ſold for little <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore than 40 <hi>s. per Cent.</hi> and its obſervable, that the want of <hi>Eaſt-India</hi> Goods not occaſion'd by the preſent War, or a want of leave to ſend out Ships; but <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> want of Stock to lade home thoſe Ships which they had: <hi>So that the Reſtraining</hi> Eaſt-India <hi>Trade to this Company,</hi> and not <hi>permitting others</hi> to Trade thither, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hindred the Improvement of it, and in a manner wholly given it to the <hi>Dutch;</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o never had ſo great Cargoes from thence, as they have had now of Late.</p>
+            <p>What remains to be conſider'd is,</p>
+            <p n="5">V. To anſwer ſome popular Objections which are made againſt the determi<g ref="char:EOLhyphen"/>tion of this Company, and the managing the <hi>Eaſt-India</hi> Trade, in any other man<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> than by a Company with a <hi>Joint-Stock.</hi>
+            </p>
+            <p>In conſidering which Objections, I ſhall reduce them into four particulars.</p>
+            <p n="1">I. The Trade will be ſpoil'd by paying dear for our Native Commodities <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and ſelling them cheap abroad, and buying Foreign Commodities dear a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad, and ſelling them for leſs than they coſt, to the ruine of thoſe who <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ade, and Deſtruction of the Trade it ſelf, as was experienced by the open <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ade formerly, when the <hi>Indians</hi> were the only Gainers; and beſides, the <hi>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ch</hi> will run away with all the Trade.</p>
+            <p n="2">II. Private Merchants will only look to their private Gain, whereas Compa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s with joynt Stocks, lay out great Sums of Money, without any preſent Pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> only upon the Proſpect of future Improvements and Advantage.</p>
+            <p n="3">III. If joynt Stocks excluſive are ſo prejudicial to the publick, and ſuch Diſ<g ref="char:EOLhyphen"/>tagements to Induſtry and Ingenuity, how came any joynt Stocks ever to Eſtabliſh'd, and the <hi>Dutch</hi> to manage their <hi>Eaſt-India</hi> Trade in that Me</p>
+            <p n="4">IV. Forts and Caſtles are neceſſary, and the Trade cannot be carried on <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hout them, and they cannot be maintained without a joynt Stock, they have the Company above a Million of Money, and are their Property, and they <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot be forc'd to part with them, and if they ſhould, how could they be for them.</p>
+            <pb n="10" facs="tcp:170872:6"/>
+            <p>Theſe ſeem to be the moſt conſiderable Objections which have occurred to me to have been offered againſt the carrying on the <hi>Eaſt-India</hi> Trade by a regula<g ref="char:EOLhyphen"/>ted Company, and if upon Examination they ſhould appear to be of no weight it will then doubtleſs be admitted, that, for the Publick Good, the <hi>Eaſt-India Trade</hi> ought not to be carrved on by a joynt Stock, (and eſpecially an exclu<g ref="char:EOLhyphen"/>ſive one,) but in an open Trade by a Company of Merchants, like the <hi>Turky</hi> o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other regulated Companies.</p>
+            <p>Firſt Objection. The <hi>Trade</hi> will be ſpoil'd, <hi>&amp;c.</hi>
+            </p>
+            <p>The Author himſelf anſwers this Objection, in p. 84, 85.-Caveat Emptor, <hi>ſays he</hi> 
+               <q>
+                  <hi>Let particular Men look to themſelves, and ſo doubtleſs they will, in thoſe Trade for which there are now Companies, as well as they do in others, for which there are <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Companies; It's the Care of Law-makers, firſt and principally to provide for th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> People in Groſs, not particulars; and if the Conſequence of ſo eaſie an Admiſſion ſhould be to make our Manufactures cheap abroad, and foreign Commodities cheap here (as is alledg'd) our Nation in general, would have the advantage both ways.</hi>
+               </q>
+            </p>
+            <p>If in an open Trade, People will ruine themſelves by trading to loſs, its a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Argument the Trade will be drove, and then 'twill not be in b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> being open, to fall into the hands of the <hi>Dutch,</hi> which its very likely to d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if it continues in this Company; the <hi>Dutch</hi> don't defire to have <hi>Eaſt-India</hi> Good ſold ſo cheap here to ruine us, for they will get little by that way of Trading the Charge of their Trade ſo much exceeding ours, by reaſon of the great Gar<g ref="char:EOLhyphen"/>riſons, which they are forc'd to maintain to ſecure their <hi>Cinnamon</hi> and <hi>Spice</hi> Trade and 'tis undeniably certain, that the <hi>Dutch</hi> deſire nothing ſo much, as the continuant of this Company, nor fear any thing more, than a Regulated Company for this Trade</p>
+            <p>This Objection may as well be made againſt all Trades which are not drove by <hi>Joynt-Stocks.</hi> It may probably happen, that thoſe who may Trade in a Free and open Trade, under a regulated Company, may not get 2 or 3 for one, o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Goods which they may import, as the Company now do, by reaſon of the exceſſive Prices they Sell at, by being <hi>Engroſſes</hi> into one Hand, and their having ftarved the <hi>Trade:</hi> But in time of Peace, may get 20 or 30 <hi>per Cent.</hi> only, and they will be very well contented to get no more, which ſmall Profit, muſt in a little time, quite beat the <hi>Dutch</hi> out of all, (except the Spice Trade,) for it's well known, they dealt but very little in <hi>Callicoes,</hi> and other Manufactures, till the Prices of <hi>East-India</hi> Goods, were inhanced to ſuch extravagant Rates, as they have been of Late. Nor did they or we get ſo much, on thoſe Goods formerly, when a larger Trade was drove, nor can the Profit be ſo great, on that Trade hereafter, which way ſoever it ſhall be managed. But it's better for the Nation to have 10 <hi>l. per Cent.</hi> gained, on 300 <hi>l.</hi> employed in Trade, then to have but 100 <hi>l.</hi> employed, by which the Merchant ſhall get 30 <hi>l. per Cent.</hi> The making a great profit on a particular Trade, may be fit for particular Men to conſider that drive that Trade, but was never yet thought a Conſideration, worthy the Legiſlators providing for; ſo as the Nation in General got by the Trade. For the great Profit which particular Men may make, is for the moſt part, directly oppoſite to the Intereſt of the Publick, and it is contrary to the Author's Maxims laid down, in <hi>p.</hi> 84, 85, and in his Preface, as is already obſerved.</p>
+            <p>
+               <q>For we must distinguiſh, <hi>ſays he,</hi> between the Profit of the Merchant, and the G<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> of the Kingdom, which are ſo far from being always Parallels, that frequency they run counter the one to the other.</q>
+            </p>
+            <pb n="11" facs="tcp:170872:6" rendition="simple:additions"/>
+            <p>The more Taders there are, the better it is for the <hi>Publick,</hi> though perhaps it <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be worſe for the private <hi>Merchants,</hi> that drive thoſe Trades. The more <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds</hi> are <hi>exported</hi> and <hi>imported,</hi> the more <hi>Ships</hi> imployed, the more <hi>Cuſtom</hi> paid, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cheaper our <hi>Manufactures</hi> are abroad, and the greater the Conſumption of our <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Goods,</hi> the Nation in <hi>general</hi> will have the <hi>Advantage,</hi> though the <hi>Traders</hi> may <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and the cheaper <hi>East-India</hi> Goods are, the <hi>Subject</hi> will pay the leſs, what is <hi>conſumed</hi> at home, and the more of them will be again <hi>exported</hi> road, for other <hi>Nations</hi> and <hi>Countries,</hi> who will thereby be incouraged to <hi>Trade to us.</hi>
+            </p>
+            <p>But it may very well ſeem ſtrange, that the <hi>cheapneſs</hi> of <hi>Commodities</hi> ſhould be <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>de an <hi>Argument</hi> againſt that method of <hi>Trade,</hi> which will make them ſo, ſeeing what the Author chieſly aims at in his Treatiſe, in reſpect of all other <hi>Trades,</hi> the lowering <hi>Intereſt,</hi> and making <hi>Ingenuity</hi> and <hi>Induſtry neceſſary;</hi> and is what lays down, as an eſſential Maxim to be obſerved, which will enable us to <hi>Cope Trade</hi> with our <hi>Neighbours,</hi> and eſpecially the <hi>Dutch,</hi> and yet this is the <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>in <hi>Objection</hi> againſt an open Trade to the <hi>Eaſt-Indies,</hi> by a <hi>regulated Company,</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>out a <hi>Joynt-Stock.</hi> But this when its conſidered, is ſo far from being an Obje<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> againſt it, that it is one of the ſtrongeſt Arguments which can be us'd for it; 'tis one of thoſe general Rules which the Author lays down, for the Enlarge<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of the Trade of <hi>England,</hi> in <hi>fol.</hi> 159.</p>
+            <p>
+               <hi>To make it the Intereſt of other Nations to Trade with us, we muſt be ſure</hi> ſays he, <hi>to furniſh them as cheap or cheaper than any other Nation can or doth,</hi> &amp;c. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s for the inſtance, that it has already been found by <hi>Experience,</hi> that when this <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was formerly <hi>open,</hi> People ruined themſelves by <hi>Trading</hi> to loſs. There <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not one tenth part of the <hi>Callicoes</hi> and other <hi>Eaſt-India</hi> Goods conſumed there is now, and has been of late years, and if that be an <hi>Objection</hi> allowed <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſt an open <hi>Trade</hi> for the <hi>Eaſt-Indies,</hi> it will likewiſe hold againſt any <hi>Trade</hi> being <hi>drove thither,</hi> becauſe that there was formerly a loſs by it, even whilſt <hi>Trade</hi> was <hi>managed</hi> by a <hi>Joynt-Stock,</hi> as well as there was when it was <hi>open;</hi> as appear in <hi>Fol.</hi> 41. of that Treatiſe:</p>
+            <q>
+               <p>
+                  <hi>There are,</hi> ſays the Author, <hi>ſome Men yet living, who do remember a greater Trade to</hi> Eaſt-India, <hi>and a far greater Stock employed therein then we have now, and yet we were ſo far from thriving upon it, that we loſt by it, and could never <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> our principal Money again.</hi>
+               </p>
+            </q>
+            <p>Yet it's evident, by the Author's Opinion, <hi>p.</hi> 148, 150, and 154.</p>
+            <q>
+               <p>
+                  <hi>That the Mer<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t may looſe in a Trade, and the Nation ſtill gain; and that there is a great difference <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>een the Gain of the Kingdom, and that of the private Merchant.</hi>
+               </p>
+            </q>
+            <p>Pag. 148. Says he, <q>
+                  <hi>If our Trade and Shipping increaſe, how ſmall or ſlow ſoever the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rofits are to private Men, it is an infallible indication, that the Nation in general <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ives. For I dare affirm, that catagorically in all parts of the whole World, wherever <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rade is great, and continues ſo, and grows daily more great, and increaſes in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hipping, and that for a Succeſſion, not of Years but of Ages, that Trade muſt <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> nationally profitable.</hi>
+               </q> 
+            </p>
+            <p>Page 150. The Author ſays further.</p>
+            <q>
+               <p>
+                  <hi>Where a great Trade is driven, eſpecially where much Shipping is employed, whatever becomes of the poor Merchant that drives the Trade, multitudes of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eople will be certain gainers, as his Majesty, and his Officers of Cuſtoms, be<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap> Shipwrights, Butchers, Brewers, Bakers, Rope-makers, Porters, Seamen,</hi>
+               </p>
+               <pb n="12" facs="tcp:170872:7"/>
+               <p>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Manufactures, <hi>Carmen, Lighter Men, and all other Artificere, and People T<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> depend on Trade or Shipping, which indeed more or leſs, the whole Kingdom d<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi>
+               </p>
+            </q>
+            <p>And Pag. 154. as has been already obſerved, he calls it, <hi>the following his own P<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ciple, That if Trade be great, and much</hi> Engliſh <hi>Shipping employed, it will be good the Nation in general, whatever it may be for the private Merchants.</hi>
+            </p>
+            <p>But to anſwere this objection more fully, its very obſervable that there is a greater <hi>Trade</hi> drove from <hi>Port</hi> to <hi>Port</hi> in <hi>India;</hi> and from thence for the <hi>Red <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Perſia,</hi> the <hi>South Sea, China, the Manillus,</hi> which goes from thence to the <hi>Spa<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> West-Indies,</hi> than what is drove to <hi>Europe,</hi> and the <hi>particular Merchants</hi> buy th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Goods in all thoſe Trades without a <hi>Joynt-Stock,</hi> and yet they do not ruine the ſelves, nor do they looſe the <hi>Trade,</hi> or give away all the profit to the <hi>Nati<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> ſometimes they get more; ſometimes leſs, as there is a greater or leſs <hi>qui<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> of Goods at the Market, and as there is more or leſs, <hi>demand</hi> for them, like <hi>manner,</hi> as in all other <hi>Trade;</hi> and it may not be amiſs to obſerve, that <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have neither <hi>Forces, Forts</hi> nor <hi>Caſtles</hi> in <hi>India</hi> to drive their <hi>Trade.</hi> I ſhall on add, that many of the Members of this <hi>Company,</hi> do publickly declare themſel<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> favour of an open <hi>Trade</hi> by a regulated <hi>Company,</hi> if the preſent <hi>Company</hi> ſhe be diſſolved, which ſhews plainly that it is nothing but private <hi>Intereſt,</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> makes them now <hi>againſt it.</hi>
+            </p>
+            <p>2d. Object. Private Merchants will only look to their preſent Gain, <hi>&amp;c.</hi>
+            </p>
+            <p>This <hi>Joint-Stock</hi> Company, inſtead of diſcovering any <hi>new Trades,</hi> has loſt ſeve<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Trades</hi> which the <hi>Engliſh</hi> Nation had formerly, they have given the <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the whole Spice-Trade. We had the Iſlands of <hi>Pelleroon</hi> and <hi>Amboine,</hi> and <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ctory at <hi>Maceaſſar,</hi> which if they had recovered back from the <hi>Dutch,</hi> accord to the Treaty of Peace, would have furniſhed us with Spice enough for our <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and wherewithall to ſupply other Countreys; and they have likewiſe loſt the <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <hi>Bamam,</hi> and thereby given the <hi>Dutch</hi> an opportunity to engroſs not only <hi>Pepper Trade,</hi> but likewiſe in time to ſhus us quite out, of the <hi>South-Sea</hi> and <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Trade;</hi> which laſt, though it has been in a manner wholly neglected by them; <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be made more beneficial to this <hi>Kingdom,</hi> than moſt of their other <hi>Trade.</hi>
+            </p>
+            <p>They have <hi>in a manner loſt</hi> all other <hi>Trades,</hi> excepting only their <hi>Trade</hi> in the <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>gull</hi>'s Dominions, which if it had been poſſible to looſe, and for the <hi>Dutch</hi> to <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> engroſſed, the <hi>Company</hi> have taken a great deal of Pains to give them an opp<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tunity to do it, all the <hi>new Trade</hi> which they have diſcovered, inſtead of the which they have loſt, is our Settlement at <hi>Bencooben,</hi> a place which finds a <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Vent for our <hi>Manufacture,</hi> (if the Lives of poor <hi>Engliſh</hi> Men may be called <hi>Manufacture)</hi> as they have been accounted by ſome of the great Men of <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Company,</hi> upon the occaſion of our firſt ſettling there, that Place has proved <hi>Golgotha</hi> to our <hi>Engliſh</hi> Men, and let it coſt what it will the <hi>fortifying,</hi> that's the morally ſpeaking, impregnable <hi>Aſylum,</hi> as they call it, to the <hi>Engliſh</hi> Nati<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> which it's ever like to be; if this be all the Improvement which has been made a <hi>Joint-Stock</hi> in the <hi>Eaſt-India Trade,</hi> during 36 years, it had been well for <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>land</hi> there had been no <hi>Joint-Stock</hi> in the <hi>Trade,</hi> or none of this Improvement; had ſaved ſeveral hundred poor <hi>Engliſh</hi> Mens Lives, which have been ſent thither Dye like Dogs.</p>
+            <p>III. <hi>Object.</hi> If <hi>Joint-Stocks</hi> are ſo prejudicial to the Publick, <hi>&amp;c.</hi>
+            </p>
+            <p>For Reply thereunto, its to be Obſerved, that in the Infancy of Trade a eſpecially of ſuch as are remote, where particular perſons would not <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:170872:7"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ear of the Diſappointments that commenly attend the firſt Undertakings, <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>t-<hi>Stocks</hi> have been thought neceſſary; but are not ſo when a Trade is fully <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>wered, and ſetled, and when it can be carried on as well or better by particular <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> without a <hi>Joint-Stock:</hi> For as <hi>Joint Stocks</hi> may be uſeful, in making the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>coveries and Settlements of <hi>Trades,</hi> and eſpecially of ſuch as are remote, ſo <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have always been prejudicial to the future improvements and Increaſe of thoſe <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Trades</hi> after their firſt Settlement, by not leaving a full Scope to Induſtry <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, as may plainly appear by the ſlow Progreſs, little Improvements, leſs Diſcoveries which have been made in the <hi>Eaſt-India</hi> and <hi>Guinea</hi> Trades <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their firſt being frequented; if compared with the Improvements of moſt <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſince that time, where Induſtry and Ingenuity have had their full courſe, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> been freed from theſe Shackles; of which there needs no other <hi>Dem<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſtration,</hi> thoſe Vaſt Improvements that have been made in our own <hi>Weſt-India</hi> Planta<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap> which could have been in no manner of proportion ſo conſiderable, if they <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> been managed by a <hi>Company;</hi> and eſpecially a <hi>Company</hi> which an Excluſive <hi>Joint-<gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi> And this the Author acknowledges, <hi>Fol.</hi> 84. <q>
+                  <hi>We have</hi> (ſays he) <hi>declined more, <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> least have increaſed leſs in thoſe Trades limited to</hi> Companies, <hi>than in others <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> there all His Majeſties Subjects have had equal freedom to Trade.</hi>
+               </q> And its very re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>kable how great Enemies Reſtrants are to Discoveries and Improvements by <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> great Countries and People which are yet unknown to us, towards the <hi>South</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> compared with thoſe towards the <hi>North Pole;</hi> which Countries being as <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>ote from the <hi>Sun,</hi> might doubtleſs afford a great conſumption to our Woollen manufactures, and ſupply us with ſome uſeful Commodities in lien of them: And <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> want of theſe Diſcoveries can be imputed to nothing, but the Reſtraint <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Trade,</hi> occaſioned by the <hi>Engliſh</hi> and <hi>Dutch Eaſt-India</hi> Companies, and the <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>ity of the <hi>Spaniards,</hi> in Prohibiting <hi>Trade</hi> into their <hi>Weſt-Indies.</hi>
+            </p>
+            <p>And though it's acknowledged, that the <hi>Dutch</hi> carry on their <hi>Eaſt India</hi> Trade <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a <hi>Joint-Stock,</hi> yet that's no Rule for this Nation to do the like, if it may be Ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>ed to more Publick Advantage in ſome other Method. For the Queſtion is not, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>Dutch</hi> Manage this <hi>Trade,</hi> but, How the <hi>Engliſh</hi> may do it; ſo as to be <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſt beneficial to this Kingdom, and to enable us beſt to cope with the <hi>Dutch;</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Whether that may not be done better without a <hi>Joint-Stock,</hi> than with <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>?</p>
+            <p>
+               <hi>The Dutch,</hi> it's true, began their <hi>Trade</hi> to the <hi>Eaſt-Indies</hi> by a <hi>Company with Joint-Stock;</hi> and they firſt Setled themſelves by Conqueſt, purſuing Dominion <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Empire; and are under a neceſſity of Continuing their <hi>Trade</hi> in that manner, <gap reason="illegible" resp="#UOM" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>gh the Charge of their Garriſons and Governments is ſo exceſſive, that no<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ing but the <hi>Spice-Trade,</hi> and the Confining our <hi>Eaſt-India Trade</hi> to an Excuſive <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nt <hi>Stock,</hi> could have hindred them from being ruined long ſince.</p>
+            <p>Our firſt Settlement in the <hi>Eaſt-Indies,</hi> was by <hi>Trade,</hi> as Merchants; and muſt <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by a fair and upright dealing with the Natives; a juſt and punctual comply<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in our Bargains and Payments: there by preſerving a mutual Intercourſe, and Underſtanding with them: For we have no <hi>Territories, Garriſons,</hi> or <hi>Caſtles,</hi> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ich afford or ſecure us any <hi>Trade,</hi> but ſuch as we might as well, nay better, be <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>The Dutch <hi>Eaſt-India Trade,</hi> and their Government, are ſo interwoven, that <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> leſſens the one, affects the other: And therefore it's not to be wondred <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they ſhould be ſo ſolicitous to preſerve and increaſe it, and to oppoſe any <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which might ſeem to leſſen it.</p>
+            <pb n="14" facs="tcp:170872:8"/>
+            <p>IV. <hi>Object.</hi> Forts and Caſtles are ſo neceſſary, that the <hi>Trade</hi> cannot be carried on without them, <hi>&amp;c.</hi>
+            </p>
+            <p>Their Forts, <hi>&amp;c.</hi> are ſuch as are to be regarded, either for the Revenue ariſing by them to the Company, or as they are neceſſary to carry on the <hi>Trade</hi> and all the Charges which have been disburſt on them, are not to be reckon<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as their Coſt, for they have had the uſe of them, and the annual Charge ought, be placed to the <hi>Trade.</hi> If the <hi>Turkey, Hamburgh, Eaſt-Land</hi> or any other Regu<g ref="char:EOLhyphen"/>lated Company of Merchants, ſhould make an Account of all the Charges their Ambaſſadors, Reſidents and Factories, ſince their firſt Foundation, it might probably, in ſome of thoſe Companies, exceed the Charge of the <hi>Eaſt-India</hi> Company's Forts, <hi>&amp;c.</hi> But the annual Trade has bore the annual Charge; <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they do not upon that ſcore, increaſe the Charge of the Admiſſion of any one <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their Company and Trade.</p>
+            <p>If their Forts are ſo great a Revenue as they pretend, they need not part <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them, but may keep them, and have home the Annual Revenue from thence.</p>
+            <p>And if they are neceſſary to carry on the Trade, Thoſe who ſucceed them <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Trade will conſider the Neceſſity which they have of them, and in ſuch <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cannot be without them, and their Value may be Adjuſted by perſons indiffe<g ref="char:EOLhyphen"/>rently Choſen, as has been always formerly practified upon the like Occaſions, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Money may be raiſed to pay for them either on the Trade, as all Impoſition are in the <hi>Turkey</hi> and other Regulated Companies, or paid by the Government out of the Cuſtoms ariſing by the Trade, which would ſoon more than compenſate that Charge by their increaſe.</p>
+            <p>The <hi>Forts</hi> and <hi>Iſlands</hi> have hitherto gone along with the <hi>Trade</hi> and the Compa<g ref="char:EOLhyphen"/>nies Succeſſors have been accounted thoſe who have ſucceeded them in the Trade and therefore they can't properly be called their Free-hold, becauſe of the Nati<g ref="char:EOLhyphen"/>onal Property in them; nor can they, if they would, Sell them to the <hi>French <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Dutch</hi> as they pretend, <hi>Bombay</hi> and St. <hi>Hellena</hi> being annext to the Crown, and Holden of the Mannor of <hi>East-Greenwich</hi> at a certain Quit-Rent; neither would the <hi>French</hi> or <hi>Dutch</hi> Buy them (becauſe they would be of no uſe to them) thoug<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Company had as good a Power, as they might have a Will, to Sell them <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any who they thought might prejudice <hi>England</hi> moſt in Buying them; But it ſhews a great deal of Confidence as well as Ill Nature in them, to pretend to do it if they could. If they are not willing to part with their Forts, let them ſee who they will hurt moſt, for its plain the <hi>Trade</hi> may be as well, and better, car<g ref="char:EOLhyphen"/>ried on without them: At <hi>Bengall</hi> the Flower of all the Trade of <hi>India,</hi> we ne<g ref="char:EOLhyphen"/>ver had a Fort nor any thing like it, and yet the greateſt and moſt profitable part of the <hi>Eaſt-India Trade</hi> has been from thence; we <hi>Trade</hi> in all parts of the <hi>Mogulls</hi> Dominions with as much Security as any Foreigners do in <hi>London;</hi> and this is demonſtrated by their own, and private Ships Trading in many other places where they have no Forts, for they have no Garriſons in any place where they have a <hi>Trade,</hi> but <hi>Fort St. George,</hi> and our New Acquiſition of St. <hi>Davids Fort</hi> and there they might have the ſame <hi>Trade</hi> without them, and be freed of the charge in maintaining them.</p>
+            <p>
+               <hi>Bombay</hi> is a good Harbour for our Ships, but affords no Trade, and we ſhould have the ſame benefit of that Harbour, although the Iſland were under the <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Dominion.</p>
+            <p>If we have Peace with the Natives, we want no Forts; and if we are encouraged
+<pb n="15" facs="tcp:170872:8" rendition="simple:additions"/>
+our Forts to make War, we ſhall ſoon Repent, as the Company may, that ever had any; and on that conſideration, as well as the neceſſary charge <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eeping them, it had been well for this Nation the Company had never had In time of War with the Natives we may perhaps with difficulty keep our <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, but we cannot drive our <hi>Trade,</hi> the War we had with the <hi>Mogull</hi> has been <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Proof of this Aſſertion.</p>
+            <p>Their Forts are of ſo little uſe, that after the Company have been for them, the beſt thing which could be done for the Advantage of Trade, would be to demoliſh them; Following therein the example of the <hi>Dutch,</hi> who have lately demoliſht <hi>Pollicate,</hi> a Fortification which they had <hi>Fort St. George,</hi> and of greater ſtrength than any we have in <hi>India,</hi> and <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was the only Fort they had in all the <hi>Mogulls</hi> Dominions, and thereby our <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> would be freed of all the great and unneceſſary Charge of maintaining and we ſhould be better ſecured by an Intire dependance on the <hi>Mogulls</hi> action.</p>
+            <p>Forts and Caſtles were of any uſe in <hi>India,</hi> it could only be in the Coun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of ſmall Princes, but they can never be of any uſe in the <hi>Mogulls</hi> Dominions is one of the greateſt Princes in all the World. And if Forts, <hi>&amp;c.</hi> were ne<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, they might be maintained by a <hi>Regulated Company</hi> of <hi>Merchants,</hi> as well as <hi>Company</hi> with a <hi>Joint-Stock.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat I have already obſerved, I hope may ſuffice to ſhew that the <hi>Eaſt-India</hi> may be carried on by a <hi>Regulated Company</hi> like the <hi>Turky</hi> and <hi>Hamborough</hi> manys, and that ſuch a Conſtitution would Tend moſt to the encreaſing <hi>Hands <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ock</hi> in <hi>Trade,</hi> and the encouraging <hi>Industry</hi> and <hi>Ingenuity,</hi> would be moſt <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>tagious to the <hi>Publick,</hi> and which according to the Authors own Opinion <hi>in all other Trades,</hi> and therefore may be ſuppoſed to be ſo in this, and is <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Method to enable this Nation to Cope therein with our Neighbours, ſpecially the <hi>Dutch,</hi> and to hinder their Engroſſing that whole Trade. And author muſt either diſapprove the preſent method of managing the <hi>East-Trade</hi> with a <hi>Joint-Stock Excluſive,</hi> or muſt give better Reaſons for it, than his own Aſſerting, <hi>That it ſeems evident to him, that it ought for the Publick Good carried on in that manner;</hi> or elſe he muſt Proclaim to the World, <hi>That his Private Intereſt is concerned, he can and will Contradict himſelf.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Deſign of this <hi>Diſcourſe</hi> was only to ſhew that the <hi>Eaſt-India Trade</hi> might <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> to much greater Advantage to the <hi>Publick</hi> by a <hi>Regulated Company</hi> of <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> than by a <hi>Company</hi> with a <hi>Joint-Stock;</hi> ſo what I have mentioned of the <hi>a Trade,</hi> has only been, <hi>occaſional,</hi> becauſe the Author has joined the <hi>Eaſt In-Trade</hi> and <hi>that</hi> together, when he ſays, <hi>fol.</hi> 81. <hi>it ſeems evident to me, that the <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of thoſe Trades, ought for the Publick Good, to be managed by Joint-Stocks;</hi> if been the <hi>Subject</hi> of this <hi>Diſcourſe,</hi> to have ſhewn that the <hi>Guinea Trade</hi> ought <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Publick Good to be managed by a <hi>Regulated Company of Merchants,</hi> rather <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a <hi>Company with a Joint-Stock,</hi> there might have been much more ſaid to <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. But what has been <hi>obſerved</hi> concerning the <hi>Eaſt-India Trade,</hi> may I ſup<g ref="char:EOLhyphen"/>convince any <hi>imprejudiced perſon,</hi> whoſe Judgment is not biaſſed by his own <hi>Intereſt.</hi>
+            </p>
+            <p>
+               <hi>Regulated Company</hi> ſhall be thought by the Wiſdom of the <gap reason="illegible" resp="#APEX" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gement of the <hi>Eaſt-India Trade,</hi> its nor doubted but it will be ſettled in <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="16" facs="tcp:170872:9"/>
+Method, and that ſome Proviſion will be made in ſuch Man a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall be the moſt <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to prevent the Companys dividing ill or more; than their <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> until they have paid the Debts they owe in <hi>India,</hi> that ſo the <hi>Engliſh</hi> Nation not hereafter ſuffer for their Embroils.</p>
+            <p>Conſidering how ſmall a Trade the <hi>Eaſt-India</hi> Company have driven for ſeveral Ye<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and how great the <hi>Dutch;</hi> there is a Neceſſity of ſome ſpeedy Reſolution in Matter.—I ſhall conclude therefore this Diſcourſe as the Author doest his <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with a very ſmall Alteration.</p>
+            <q>
+               <p>I think no true <hi>Engliſhmen</hi> will deny that Seaſon cries aloud to us to be up and doing before our Fields become <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cupied, and before the <hi>Dutch</hi> get too much the Whip-hand of us, whom ſuch a Caſe were they freed from their <hi>French</hi> Fears, which they labour u<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> at preſent) I fear we ſhould find as ſevere Task maſters as ever the <hi>Ath<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> were to the leſſer trading Cities of <hi>Greece.</hi>
+               </p>
+               <p>Neither are the <hi>Dutch</hi> the only Neighbours we have for Carrivals in <hi>T<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> but the <hi>French</hi> King and King of <hi>Sweden</hi> are now as active, circumſpect, duſtrlous and perſpective too in this Affair; and have, and are ordering the as prudently for promoting thereof, as the <hi>Dutch</hi> themſelves.</p>
+               <p>
+                  <hi>There is</hi> nothing can be ſaid for Publick Good, but will croſs the parti<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Ends, as well as Opinions, of many private Perſons; and ſtill the more is ſaid more are diſobliged; but my Duty to my Country, overcoming thoſe C<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> derations, I have adventured this ſecond time to expoſe my Conception publick Cenſure, with this confidence, that after theſe Principles have ſuf<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the accuſtomary Perſecution of Tongues and Pens, naturally and conſt accompanying all new Propoſals, they will at length, or ſomething very then, come to be generally received and honoured with the publick Sa<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> concerning the Time whereof, I am not careful, but for my Countries I could wiſh it might be ſhortned.</p>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Baldwin,</hi> near the <hi>Oxford Arms Inn</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
